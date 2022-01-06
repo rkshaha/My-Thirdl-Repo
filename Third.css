@@ -7,5 +7,9 @@ h2{
     background-color: rgb(18, 160, 18);
 }
 p{
-    color: darkmagenta;
+    color: darkred;
+    background-color: darksalmon;
+}
+h3{
+    color: darkviolet;
 }
