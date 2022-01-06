@@ -1,7 +1,8 @@
 p{
-    color: brown;
-    background-color: cornsilk;
+    color: #e20a0a;
+    background-color: rgb(224, 183, 18);
 }
 h2{
-    color: darkblue;
+    color: rgb(8, 8, 148);
+    background-color: rgb(18, 160, 18);
 }
